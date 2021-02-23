@@ -25,4 +25,4 @@ Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle
 ![alt text](atmega328p.png)
 
 //The Simulation Demo
-[![asciicast]()](youtube.com/watch?v=Blmsg7yWJyE)
+[![asciicast]()](https://youtu.be/Blmsg7yWJyE)
