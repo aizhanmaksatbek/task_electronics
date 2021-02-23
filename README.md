@@ -10,7 +10,7 @@ PINB0 = redLed 5mm \
 PINB1 = yellowLed 5mm \
 PINB2 = greenLed 5mm
 
-The given duty cycle values are used to controll the led dimming ratio.
+The given duty cycle values are used to controll the led dimming ratios.
 The both led blinking frequency and pwm parameters are handled using Timer0, Timer1, Timer2 timers for each led relatively.
 Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle values.
 
