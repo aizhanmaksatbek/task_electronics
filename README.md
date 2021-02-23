@@ -26,3 +26,7 @@ Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle
 
 # The Simulation Demo
 https://www.youtube.com/watch?v=Blmsg7yWJyE
+
+
+# 2) Supplementary Contribution: Layout using Arduino UNO board, 5mm red,green,yellow leds
+https://www.youtube.com/watch?v=jdcnLiJXwA0
