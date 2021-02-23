@@ -1,7 +1,8 @@
 # task_electronics_mdevs
 
 # Problem Description:
-Control of 3 individual leds with different blinking frequency and dimming ratio parameters
+Control of 3 individual leds with different blinking frequency and dimming ratio parameters.\
+The project schematics simulation and physical layout models are implemented.
 
 # Solution
 ATMega328p(Arduino) MCU is feeded with +5V Power Supply. 
@@ -22,3 +23,6 @@ Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle
 ![alt text](Proteus_Atmega328p/schematics_colored.png)
 * ATMega328p(Arduino) MCU schematics is driven using .hex compilation result of AVR C-code\
 ![alt text](atmega328p.png)
+
+//The Simulation Demo
+[![asciicast]()](youtube.com/watch?v=Blmsg7yWJyE)
