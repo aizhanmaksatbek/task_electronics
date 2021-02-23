@@ -19,6 +19,6 @@ Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle
 2) Microchip Studio 7 (Version: 7.0.2542), AVR package
 
 * Project Schematics\
-![alt text](Proteus_Atmega328p/schematics_colored.png)\
+![alt text](Proteus_Atmega328p/schematics_colored.png)
 * ATMega328p(Arduino) MCU schematics is driven using .hex compilation result of AVR C-code\
 ![alt text](atmega328p.png)
