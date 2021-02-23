@@ -24,6 +24,5 @@ Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle
 * ATMega328p(Arduino) MCU schematics is driven using .hex compilation result of AVR C-code\
 ![alt text](atmega328p.png)
 
-//The Simulation Demo
-
-[![Simulation](https://youtu.be/Blmsg7yWJyE)](https://youtu.be/Blmsg7yWJyE "Simulation")
+# The Simulation Demo
+https://www.youtube.com/watch?v=Blmsg7yWJyE
