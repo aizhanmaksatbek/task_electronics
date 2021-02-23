@@ -26,4 +26,4 @@ Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle
 
 //The Simulation Demo
 
-[![Simulation](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://youtu.be/Blmsg7yWJyE "Simulation")
+[![Simulation](https://youtu.be/Blmsg7yWJyE)](https://youtu.be/Blmsg7yWJyE "Simulation")
