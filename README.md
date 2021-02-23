@@ -16,5 +16,6 @@ Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle
 
 # Requirements
 1) Proteus 8 Professional
-2) Microchip Studio 7 (Version: 7.0.2542)
+2) Microchip Studio 7 (Version: 7.0.2542), AVR package
 
+![alt text](http://url/to/img.png)
