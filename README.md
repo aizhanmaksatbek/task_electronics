@@ -1,7 +1,7 @@
 # task_electronics_mdevs
 
 # Problem Description:
-Control of 3 individual leds with different blinking frequency and dimming ratio.
+Control of 3 individual leds with different blinking frequency and dimming ratio parameters
 
 # Solution
 ATMega328p(Arduino) MCU is feeded with +5V Power Supply. 
