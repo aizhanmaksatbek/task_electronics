@@ -5,7 +5,7 @@ Control of 3 individual leds with different blinking frequency and dimming ratio
 
 # Solution
 ATMega328p(Arduino) MCU is feeded with +5V Power Supply. 
-PortB0, PortB1, PortB2 pins are set as an output.
+PortB0, PortB1, PortB2 pins are set as an output.\
 PINB0 = redLed 5mm \
 PINB1 = yellowLed 5mm \
 PINB2 = greenLed 5mm
