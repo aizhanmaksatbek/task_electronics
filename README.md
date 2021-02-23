@@ -16,11 +16,11 @@ The both led blinking frequency and pwm parameters are handled using Timer0, Tim
 Each timer uses 2 prescaler register(OCRxA, OCRxB) with frequency and duty cycle values.
 
 # Requirements
-1) Proteus 8 Professional
-schematics: /Proteus_Atmega328p/
-3) Microchip Studio 7 (Version: 7.0.2542), AVR package
+1) Proteus 8 Professional\
+schematics: /Proteus_Atmega328p
+3) Microchip Studio 7 (Version: 7.0.2542), AVR package\
 C-code: /gcc_avr/gcc_maddevs/main.c
-4) Arduino Software (IDE) 1.8.42.0
+4) Arduino Software (IDE) 1.8.42.0\
 Arduino UNO layout:  /physical_layout/
 
 * Project Schematics\
