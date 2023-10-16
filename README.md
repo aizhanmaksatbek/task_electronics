@@ -1,4 +1,4 @@
-# task_electronics_mdevs
+# task_electronics
 
 # Problem Description:
 Control of 3 individual leds with different blinking frequency and dimming ratio parameters.\
